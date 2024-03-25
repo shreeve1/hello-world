@@ -1,2 +1,2 @@
-# Leanr GIT
+# Learn GIT
 learn git
