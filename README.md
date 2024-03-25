@@ -1,2 +1,2 @@
-# hello-world
+# Leanr GIT
 learn git
